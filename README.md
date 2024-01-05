@@ -1,7 +1,7 @@
-# Computer Vision demo
+# Computer Vision Demo
 Computer Vision demo for the Data Hour webinar using `TensorFlow`.
 
-**Run the GridSearch Demo in a colab notebook**
+**Run the Computer Vision Demo in a colab notebook**
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/murilogustineli/computer-vision-demo/blob/main/cv_demo.ipynb)
 
