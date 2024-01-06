@@ -15,7 +15,7 @@ Computer Vision demo for the Data Hour webinar using `TensorFlow`.
 
 ## Project Setup Guide
 
-To ensure our project runs seamlessly, we'll set up a dedicated Python environment and install the necessary packages.
+To ensure our project runs smoothly on your local machine, we'll set up a dedicated Python environment and install the necessary packages.
 ### Prerequisites
 
 - Python (we're using Python 3 for this project)
