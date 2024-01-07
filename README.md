@@ -1,5 +1,6 @@
 # Computer Vision Demo
-Computer Vision demo for the Data Hour webinar using `TensorFlow`.
+
+Computer Vision demo for the Data Hour webinar using `PyTorch`.
 
 **Run the Computer Vision Demo in a colab notebook**
 
@@ -8,14 +9,19 @@ Computer Vision demo for the Data Hour webinar using `TensorFlow`.
 ⚠ _Colab provides a temporary environment: anything you do will be deleted after a while, so make sure you download any data you care about._
 
 ## Important documentation:
-* [TensorFlow](https://www.tensorflow.org/)
+
+- [PyTorch](https://pytorch.org/)
+- [Fashion MNIST GitHub repo](https://github.com/zalandoresearch/fashion-mnist)
+- [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition)
 
 ### Presentation slides
-* [Google Slides](https://docs.google.com/presentation/d/1dm_KjBm-qY55v8wjmrtgRgqP2azxYjkmfaKipXbDtac/edit?usp=sharing)
+
+- [Google Slides](https://docs.google.com/presentation/d/1dm_KjBm-qY55v8wjmrtgRgqP2azxYjkmfaKipXbDtac/edit?usp=sharing)
 
 ## Project Setup Guide
 
 To ensure our project runs smoothly on your local machine, we'll set up a dedicated Python environment and install the necessary packages.
+
 ### Prerequisites
 
 - Python (we're using Python 3 for this project)
@@ -23,6 +29,7 @@ To ensure our project runs smoothly on your local machine, we'll set up a dedica
 - Either `virtualenv` or `conda` (based on your preference)
 
 ### Setup Instructions
+
 #### 1. Setting up a virtual environment
 
 ##### Using Conda:
