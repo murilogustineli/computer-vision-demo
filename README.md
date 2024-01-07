@@ -1,6 +1,6 @@
 # Computer Vision Demo
 
-Computer Vision demo for the Data Hour webinar using `PyTorch`.
+Computer Vision demo for the [DataHour webinar series](https://www.analyticsvidhya.com/blog/2022/02/introducing-the-webinar-series-the-datahour/) using `PyTorch`.
 
 **Run the Computer Vision Demo in a colab notebook**
 
