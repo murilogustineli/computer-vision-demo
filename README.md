@@ -38,7 +38,7 @@ First, [install Anaconda or Miniconda](https://docs.conda.io/projects/conda/en/l
 Then, create a new environment:
 
 ```
-conda create --name myenv python=3.8
+conda create --name myenv
 ```
 
 Activate the environment:
